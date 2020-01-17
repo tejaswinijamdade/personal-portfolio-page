@@ -14,7 +14,7 @@
 			<hr />
 			<strong>Goals</strong>
 			<p>I'm upskilling myself at GreyAtom! My goals include:</p>
-			<ul> <li>Learn to code. </li>
+			<ul <li>Learn to code. </li>
 				<li>Become a front end developer at Google.</li>
 				<li>Be kind To others.</li>
 			</ul>
