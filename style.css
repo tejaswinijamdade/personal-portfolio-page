@@ -7,11 +7,11 @@ body{
 	min-width: 500px;
 	background-color: #e0eeee;
 }
-.ProfileBody{
-	display: inline-block;
-	background-color: white;
-	margin-top: 6px;
-	margin-left: 55px;
-	width: 75%;
+.profileBody{
+	display:inline-block;
+	background-color:rgba(255,255,255,1);
+	margin-top:6px;
+	margin-left:55px;
+	width:75%;
 	height:590px;
 }
