@@ -5,7 +5,7 @@
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-		<div class="ProfileBody">
+		<div class="profileBody">
 			 <h1>Tejaswini Jamdade</h1>
 			<h4>FRONT END ENGINEER</h4>
 			<hr />
