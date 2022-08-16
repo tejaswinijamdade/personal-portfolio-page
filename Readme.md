@@ -16,7 +16,6 @@
 			<p>My goals include:</p>
 			<ul>   <li>Learn to code. </li>
 				<li>Become a front end developer</li>
-				<li>Be kind To others.</li>
 			</ul>
 			<hr />
 			<strong>Contact Details</strong>
