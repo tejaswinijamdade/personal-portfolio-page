@@ -13,7 +13,7 @@
 			<p> Starting my carrer journey as a front end developer. Want to become proficient in HTML,CSS,JavaScript; plus modern libraries and framework.Hardworking, grity and passionate about providing the best user experience and services.</p>
 			<hr />
 			<strong>Goals</strong>
-			<p>I'm upskilling myself at GreyAtom! My goals include:</p>
+			<p>My goals include:</p>
 			<ul>   <li>Learn to code. </li>
 				<li>Become a front end developer</li>
 				<li>Be kind To others.</li>
